@@ -29,6 +29,7 @@ theme:
   icon:
     repo: fontawesome/brands/github    
 
+
 markdown_extensions:
   - tables
   - admonition
@@ -87,5 +88,10 @@ nav:
     - Traffic: Components/Traffic/index.md
     - PCD Scanner: Components/PCDScanner/index.md
     - Logger: Components/Logger/index.md
+  
+  - NetSim: NetSim/index.md
+  - TroubleShooting: TroubleShooting/index.md
+  - License: License/index.md
+  - Contact: Contact/index.md
 
 
